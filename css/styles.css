@@ -1,0 +1,157 @@
+body{
+  background-color: #BCE9FF;
+}
+.backroun1{
+  height: 630px;
+
+}
+p{
+  font-size: 20px;
+}
+.The-Aqua-Nevis-Hotel{
+  text-decoration: underline;
+  font-weight: bold;
+}
+.four-star{
+  font-weight: 600;
+}
+.firtSplashHotel{
+  font-weight: 600;
+}
+.allInclusive{
+  font-weight: 600;
+}
+.waterpark{
+  font-weight: 600;
+}
+.waterAtrractions{
+  font-weight: 600;
+}
+.all-confort{
+  font-weight: 600;
+}
+.snackbar{
+  font-weight: 600;
+}
+.wifi{
+  font-weight: 600;
+}
+
+
+.hotel{
+  height: 300px;
+}
+.hotel:hover{
+  opacity: 0.5;
+}
+.restaurantimg{
+  height: 375px;
+  width: 750px;
+}
+.restaurantimg:hover{
+  opacity: 0.5;
+}
+li{
+  font-size: 20px;
+}
+th{
+  font-size: 20px;
+}
+.verdeata{
+  height: 250px;
+  width: 400px;
+}
+.verdeata:hover{
+  opacity: 0.5;
+}
+.atractions{
+  height: 250px;
+  width: 400px;
+}
+.atractions:hover{
+  opacity: 0.5;
+}
+.entrence{
+  height: 250px;
+  width: 400px;
+}
+.entrence:hover{
+  opacity: 0.5;
+}
+.family{
+  height: 250px;
+  width: 400px;
+  }
+.double{
+  height: 250px;
+  width: 400px;
+}
+.apartament{
+  height: 250px;
+  width: 400px;
+}
+.family:hover{
+  opacity: 0.5;
+  }
+.double:hover{
+  opacity: 0.5;
+}
+.apartament:hover{
+  opacity: 0.5;
+}
+.kids:hover{
+  opacity: 0.5;
+}
+.seagarden:hover{
+  opacity: 0.5;
+}
+.yacht{
+  height: 285px;
+  width: 400px;
+}
+.ATV{
+  height: 285px;
+  width: 400px;
+}
+.ATV:hover{
+  opacity: 0.5;
+}
+.yacht:hover{
+  opacity: 0.5;
+}
+.button{
+  height: 50px;
+  width: 200px;
+  background-color: #5AB7E6;
+  border-color: #5AB7E6;
+  color: #BCE9FF;
+}
+.button:hover{
+  background-color: #BCE9FF;
+  color: #468EB3;
+}
+.ATV2{
+  height: 285px;
+  width: 400px;
+}
+
+.sand{
+  height: 285px;
+  width: 400px;
+}
+.yacht2{
+  height: 285px;
+  width: 400px;
+}
+.tent{
+  height: 285px;
+  width: 400px;
+}
+hr{
+  height: 0;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+
+}
+.mapouter{position:relative;text-align:right;height:500px;width:100%;}
